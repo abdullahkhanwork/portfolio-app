@@ -333,7 +333,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   margin: 0 auto 15px auto;
 }
 .background-image-left {
-  top: 28%;
+  /* top: 28%; */
   position: absolute;
   bottom: 0;
   width: 40%;
@@ -458,7 +458,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   letter-spacing: 0.8px;
 }
 .background-image-right {
-  top: 20%;
+  /* top: 20%; */
   position: absolute;
   bottom: 0;
   width: 35%;
